@@ -1,4 +1,4 @@
-#Dockerfile to use pyocr based on tesseract
+# Dockerfile to use pyocr based on tesseract
 
 This Dockerfile is to create an Docker Image containing the list below
 
